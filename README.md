@@ -1,0 +1,2 @@
+# Equivariant_Graph_Neural_Networks_for_Molecular_Property_Prediction
+GNN
