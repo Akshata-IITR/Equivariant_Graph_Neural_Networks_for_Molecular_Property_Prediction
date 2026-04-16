@@ -11,7 +11,6 @@ Predicting molecular properties is a cornerstone of drug discovery and materials
 ## Tech Stack
 * **Python**
 * **PyTorch / PyTorch Geometric** (Graph Deep Learning)
-* **RDKit** (Cheminformatics)
 * **Jupyter Notebook**
 
 ## Key Features
